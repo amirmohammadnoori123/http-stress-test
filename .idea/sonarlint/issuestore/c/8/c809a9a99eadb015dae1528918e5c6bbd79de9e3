@@ -1,0 +1,7 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(•àÊ¼8óúƒİÚ/
+X	java:S106"9Replace this use of System.out or System.err by a logger.(€¢£Áÿÿÿÿÿ8ÅÚ“İÚ/
+V	java:S125"<This block of commented-out lines of code should be removed.(÷ğ8óúƒİÚ/
+Y
+java:S3400"9Remove this method and declare a constant for this value.(òö§©úÿÿÿÿ8óúƒİÚ/
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ˆ©Â¸øÿÿÿÿ8ÅÚ“İÚ/
